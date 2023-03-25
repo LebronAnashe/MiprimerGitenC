@@ -11,3 +11,7 @@ int main()
     int flag=0;
 
 }
+void mensaje ()
+{
+    printf ("mensaje...") ;
+}
